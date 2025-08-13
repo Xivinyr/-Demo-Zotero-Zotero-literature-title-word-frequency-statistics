@@ -4,7 +4,7 @@ For personal use, the program can count the most frequently occurring words in t
 
 --- 
 
-# 使用方式
+## 使用方式
 1. 将Zotero中的文献以csv.格式导出到桌面（其实也可以导出到别的地方，但是程序要稍作修改）
 
    注意文件路径修改为自己保存的路径！<img width="1037" height="278" alt="image" src="https://github.com/user-attachments/assets/2183c881-1ef3-4b32-a4b9-96a7dd13dbed" />
